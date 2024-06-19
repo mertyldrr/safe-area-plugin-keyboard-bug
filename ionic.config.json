@@ -1,0 +1,7 @@
+{
+  "name": "safe-area-plugin-keyboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
